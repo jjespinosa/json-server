@@ -1,0 +1,21 @@
+[
+{
+    "suscripcion": "Free",
+    "nombre": "Juan Jose",
+    "email": "espinosajuanjose@gmail.com",
+	"clave":"udtcs"
+    "pais": "argentina",
+    "id": 0
+},
+{
+    "suscripcion": "Premium",
+    "nombre": "Juan Jose",
+    "email": "espinosajuanjose@gmail.com",
+	"clave":"udtcs"
+    "pais": "argentina",
+    "tarjeta_nro": "5555444433332222",
+    "fecha_ven": "10/22",
+    "cod_seg": "872",
+    "id": 3
+}
+]
